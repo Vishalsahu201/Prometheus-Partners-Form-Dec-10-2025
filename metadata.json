@@ -1,0 +1,9 @@
+{
+  "name": "ZARKOBIT SALON",
+  "description": "A world-class global on-demand salon marketplace connecting customers with grooming professionals worldwide.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
